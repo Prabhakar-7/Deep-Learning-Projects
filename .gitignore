@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+tfenv/
+
+# Model files
+*.h5
+*.pkl
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
