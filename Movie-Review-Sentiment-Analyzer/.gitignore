@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+IMDB Dataset.csvgit push origin main
